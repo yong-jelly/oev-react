@@ -261,7 +261,7 @@ export const BtsChroniclePage = () => {
             interactiveLayerIds={['polygon-layer']}
             onClick={(e) => {
               const feature = e.features && e.features[0];
-              if (feature && feature.layer.id === 'polygon-layer') {
+              if (feature?.layer?.id === 'polygon-layer') {
                 const locIndex = (feature.properties as any).locationIndex;
                 const loc = locations.filter(l => l.geojson)[locIndex];
                 if (loc) handleMarkerClick(loc);

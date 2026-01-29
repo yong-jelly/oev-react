@@ -1,0 +1,11 @@
+---
+description: Supabase 데이터 검증을 위한 psql 연결 정보
+globs: 
+alwaysApply: true
+---
+
+Supabase 데이터 검증 시 다음 psql 연결 문자열을 사용하여 데이터를 확인할 것:
+
+```bash
+psql "postgresql://postgres.xyqpggpilgcdsawuvpzn:ZNDqDunnaydr0aFQ@aws-0-ap-northeast-2.pooler.supabase.com:5432/postgres"
+```

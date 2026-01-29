@@ -1,0 +1,51 @@
+[
+    {
+        "id": "global-history-chronicle",
+        "title": "조선시대 사건",
+        "description": "글로벌 뉴스",
+        "dataPath": "data/korean-history-serise.json",
+        "icon": "Globe"
+    },
+    {
+        "id": "calamity-chronicle",
+        "title": "재해 연대기",
+        "description": "재해",
+        "dataPath": "data/calamity-serise.json",
+        "icon": "Globe"
+    },
+  {
+    "id": "bts-chronicle",
+    "title": "BTS 연대기",
+    "description": "최근 5년간 BTS의 글로벌 콘서트 및 주요 활동 기록",
+    "dataPath": "data/bts-serises.json",
+    "icon": "Globe"
+  },
+  {
+    "id": "mj-chronicle",
+    "title": "마이클 잭슨 연대기",
+    "description": "최근 5년간 마이클 잭슨의 글로벌 콘서트 및 주요 활동 기록",
+    "dataPath": "data/mj-serise.json",
+    "icon": "Globe"
+  },
+  {
+    "id": "terror-chronicle",
+    "title": "테러 연대기",
+    "description": "최근 5년간 테러",
+    "dataPath": "data/terror-serise.json",
+    "icon": "Globe"
+  },
+  {
+    "id": "korean-news-chronicle",
+    "title": "한국 뉴스",
+    "description": "",
+    "dataPath": "data/korean-news-serise.json",
+    "icon": "Globe"
+  },
+  {
+    "id": "korean-war-chronicle",
+    "title": "한국 전쟁 연대기",
+    "description": "한국 전쟁",
+    "dataPath": "data/korean-war-serise.json",
+    "icon": "Globe"
+  }
+]

@@ -1,0 +1,68 @@
+import type { Item } from '../api/types';
+
+export const COMING_SOON_ITEMS: Item[] = [
+  {
+    id: 'slot-double',
+    name: '더블 디스패치 슬롯',
+    type: 'EQUIPMENT',
+    description: '동시에 한 건 더 굴린다. 돈도 두 배로 바빠짐.',
+    effectDescription: '동시 운행 슬롯 +1',
+    isComingSoon: true,
+  },
+  {
+    id: 'slot-reserve',
+    name: '예약 슬롯(오더 큐)',
+    type: 'EQUIPMENT',
+    description: '빈 슬롯 생기자마자 바로 출발. 게으름을 과학으로.',
+    effectDescription: '예약 주문 보관 +1 (운행 종료 시 자동 시작)',
+    isComingSoon: true,
+  },
+  {
+    id: 'slot-preset',
+    name: '장비 프리셋 슬롯',
+    type: 'EQUIPMENT',
+    description: '합법 세트 / 회색 세트, 버튼 한 번에 갈아끼운다.',
+    effectDescription: '장비·서류·보험 프리셋 저장 +2',
+    isComingSoon: true,
+  },
+  {
+    id: 'auto-drive',
+    name: '오토 드라이브 모듈',
+    type: 'EQUIPMENT',
+    description: '지도는 내가 보고, 페달은 기계가 밟는다(대신 약간 손해).',
+    effectDescription: '오프라인 진행 안정화 및 이벤트 손실 완화',
+    isComingSoon: true,
+  },
+  {
+    id: 'auto-repair',
+    name: '오토 리페어 서비스',
+    type: 'EQUIPMENT',
+    description: '고장? 걱정 마. 돈이 알아서 날아간다.',
+    effectDescription: '고장 발생 시 자동 수리 (수리비 자동 차감)',
+    isComingSoon: true,
+  },
+  {
+    id: 'doc-all-in-one',
+    name: '서류 뭉치 올인원 바인더',
+    type: 'DOCUMENT',
+    description: 'POD? 반입증? 인수증? 한 권으로 정리 끝.',
+    effectDescription: '특정 카테고리 필수 서류 자동 포함',
+    isComingSoon: true,
+  },
+  {
+    id: 'ins-fine-shield',
+    name: '벌금 방패 보험(티어 1)',
+    type: 'INSURANCE',
+    description: '걸리면 아프다. 덜 아프게 해준다.',
+    effectDescription: '벌금/패널티 일부를 보험사가 부담',
+    isComingSoon: true,
+  },
+  {
+    id: 'kit-shock-absorber',
+    name: '충격 흡수 패킹 키트',
+    type: 'EQUIPMENT',
+    description: '덜 깨지고, 덜 울고, 덜 환불한다.',
+    effectDescription: '파손/분쟁 이벤트 손실 감소 (ETA 소폭 증가)',
+    isComingSoon: true,
+  },
+];

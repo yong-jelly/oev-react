@@ -1,0 +1,356 @@
+[
+  {
+    "category": { "code": "DYNASTY_FOUNDING", "name_ko": "건국/왕조 성립" },
+    "location": { "name": "Kaesong (Gaeseong), present-day North Korea", "venue": "Gaeseong area (approx)", "coordinates": [126.5544, 37.97] },
+    "event": { "year": "1392", "name": "7월 조선건국(태조 이성계)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "7월 조선건국(태조 이성계)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "CAPITAL_RELOCATION", "name_ko": "천도/수도 이전" },
+    "location": { "name": "Seoul, South Korea", "venue": "Hanyang (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1394", "name": "10월 한양 천도" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "10월 한양 천도", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "PALACE_STATECRAFT", "name_ko": "궁궐/국가체제" },
+    "location": { "name": "Jongno-gu, Seoul, South Korea", "venue": "Gyeongbokgung area (approx)", "coordinates": [126.9769, 37.5796] },
+    "event": { "year": "1394", "name": "경복궁(미완) 및 경국전 편찬(국가 운영 체계 정비)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "경복궁(미완) 및 경국전 편찬(국가 운영 체계 정비)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "PALACE_COUP", "name_ko": "궁중 정변/쿠데타" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1398", "name": "제1차 왕자의 난" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "제1차 왕자의 난", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1398", "name": "정종 즉위(조선 제2대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "정종 즉위(조선 제2대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "PALACE_COUP", "name_ko": "궁중 정변/쿠데타" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1400", "name": "제2차 왕자의 난" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "제2차 왕자의 난", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1400", "name": "태종 즉위(조선 제3대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "태종 즉위(조선 제3대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0% ://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "CAPITAL_RELOCATION", "name_ko": "천도/수도 이전" },
+    "location": { "name": "Seoul, South Korea", "venue": "Hanyang (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1404", "name": "개경에서 한양으로 재천도" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "개경에서 한양으로 재천도", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "PALACE_STATECRAFT", "name_ko": "궁궐/국가체제" },
+    "location": { "name": "Jongno-gu, Seoul, South Korea", "venue": "Changdeokgung / Gyeongbokgung (approx)", "coordinates": [126.991, 37.5794] },
+    "event": { "year": "1404", "name": "창덕궁 완공, 경복궁 완공" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "창덕궁 완공, 경복궁 완공", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_EVENT", "name_ko": "왕실 사건" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal court area (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1408", "name": "태조 이성계 사망" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "태조 이성계 사망", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1418", "name": "세종 즉위(조선 제4대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "세종 즉위(조선 제4대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "INSTITUTION", "name_ko": "제도/기관" },
+    "location": { "name": "Seoul, South Korea", "venue": "Jiphyeonjeon (court research institute) context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1421", "name": "집현전 확대 개편" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "집현전 확대 개편", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "CULTURE_WRITING_SYSTEM", "name_ko": "문화/문자" },
+    "location": { "name": "Jongno-gu, Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.9769, 37.5796] },
+    "event": { "year": "1446", "name": "한글 반포(훈민정음)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "한글 반포(훈민정음)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1450", "name": "문종 즉위(조선 제5대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "문종 즉위(조선 제5대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "HISTORIOGRAPHY", "name_ko": "사서/편찬" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court historiography context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1450", "name": "고려사 완성" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "고려사 완성", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1452", "name": "단종 즉위(조선 제6대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "단종 즉위(조선 제6대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1455", "name": "세조 즉위(조선 제7대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "세조 즉위(조선 제7대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "POLITICAL_CONSPIRACY", "name_ko": "정치 사건/역모" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1457", "name": "금성대군의 단종 복위 사건" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "금성대군의 단종 복위 사건", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1469", "name": "성종 즉위(조선 제9대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "성종 즉위(조선 제9대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "LAW_CODE", "name_ko": "법전/통치" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court legislation context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1485", "name": "조선 법전 경국대전 완성" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "조선 법전 경국대전 완성", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "LITERATI_PURGE", "name_ko": "사화/정치 숙청" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1498", "name": "무오사화 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "무오사화 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "LITERATI_PURGE", "name_ko": "사화/정치 숙청" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1504", "name": "갑자사화 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "갑자사화 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "COUP", "name_ko": "정변/반정" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1506", "name": "중종반정" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "중종반정", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "TREATY", "name_ko": "조약/외교" },
+    "location": { "name": "Busan, South Korea", "venue": "Port diplomacy context (approx)", "coordinates": [129.0756, 35.1796] },
+    "event": { "year": "1512", "name": "임신조약 체결" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "임신조약 체결", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "LITERATI_PURGE", "name_ko": "사화/정치 숙청" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1519", "name": "기묘사화 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "기묘사화 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "LITERATI_PURGE", "name_ko": "사화/정치 숙청" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1545", "name": "을사사화 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "을사사화 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_RAID", "name_ko": "외침/왜변" },
+    "location": { "name": "Yeosu, Jeollanam-do, South Korea", "venue": "Coastal raid context (approx)", "coordinates": [127.6622, 34.7604] },
+    "event": { "year": "1555", "name": "을묘왜변 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "을묘왜변 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1567", "name": "선조 즉위(조선 제14대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "선조 즉위(조선 제14대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FACTIONALISM", "name_ko": "붕당정치/당쟁" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1575", "name": "동인·서인 분열(사림 분열)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "동인·서인 분열(사림 분열)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "DIPLOMACY", "name_ko": "외교" },
+    "location": { "name": "Seoul, South Korea", "venue": "State mission dispatch context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1590", "name": "조선 통신사 왜에 파견" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "조선 통신사 왜에 파견", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "WAR_IMJIN", "name_ko": "전쟁(임진왜란)" },
+    "location": { "name": "Busan, South Korea", "venue": "Initial invasion landing area (approx)", "coordinates": [129.0756, 35.1796] },
+    "event": { "year": "1592", "name": "임진왜란 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "임진왜란 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MILITARY_REFORM", "name_ko": "군제/군사조직" },
+    "location": { "name": "Seoul, South Korea", "venue": "Hullyeondogam context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1594", "name": "훈련도감 설치" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "훈련도감 설치", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "WAR_IMJIN", "name_ko": "전쟁(정유재란)" },
+    "location": { "name": "Myeongnyang area, Jindo, Jeollanam-do, South Korea", "venue": "Naval battle context (approx)", "coordinates": [126.3, 34.4] },
+    "event": { "year": "1597", "name": "정유재란 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "정유재란 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Changdeokgung area (approx)", "coordinates": [126.991, 37.5794] },
+    "event": { "year": "1608", "name": "광해군 즉위(조선 제15대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "광해군 즉위(조선 제15대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "TREATY", "name_ko": "조약/외교" },
+    "location": { "name": "Busan, South Korea", "venue": "Japan relations / port diplomacy context (approx)", "coordinates": [129.0756, 35.1796] },
+    "event": { "year": "1609", "name": "송사약조 체결" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "송사약조 체결", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "COUP", "name_ko": "정변/반정" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1623", "name": "인조반정" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "인조반정", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "REBELLION", "name_ko": "반란/내란" },
+    "location": { "name": "Seoul, South Korea", "venue": "Uprising toward the capital context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1624", "name": "이괄의 난" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "이괄의 난", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_INVASION", "name_ko": "외침/침략" },
+    "location": { "name": "Paju (DMZ vicinity), Gyeonggi-do, South Korea", "venue": "Northern border crossing context (approx)", "coordinates": [126.7806, 37.7599] },
+    "event": { "year": "1627", "name": "정묘호란" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "정묘호란", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_INVASION", "name_ko": "외침/침략" },
+    "location": { "name": "Namhansanseong, Gwangju-si, Gyeonggi-do, South Korea", "venue": "Namhansanseong Fortress (approx)", "coordinates": [127.181, 37.477] },
+    "event": { "year": "1636", "name": "병자호란" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "병자호란", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_CAMPAIGN", "name_ko": "원정/대외 군사행동" },
+    "location": { "name": "Ussuri / Amur basin (approx)", "venue": "Naseonjeongbeol context (approx)", "coordinates": [132.0, 48.5] },
+    "event": { "year": "1658", "name": "나선정벌(2차)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "나선정벌(2차)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FACTIONALISM", "name_ko": "환국/정국 교체" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1680", "name": "경신환국" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "경신환국", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FACTIONALISM", "name_ko": "환국/정국 교체" },
+    "location": { "name": "Seoul, South Korea", "venue": "Court politics context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1689", "name": "기사환국" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "기사환국", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "BORDER_TREATY_MARKER", "name_ko": "국경/경계 표석" },
+    "location": { "name": "Mount Paektu (Baekdusan) area", "venue": "Boundary stele area (approx)", "coordinates": [128.068, 41.992] },
+    "event": { "year": "1712", "name": "백두산 정계비 세움" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "백두산 정계비 세움", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "REBELLION", "name_ko": "반란/내란" },
+    "location": { "name": "Cheongju, Chungcheongbuk-do, South Korea", "venue": "Uprising region context (approx)", "coordinates": [127.489, 36.642] },
+    "event": { "year": "1728", "name": "이인좌의 난" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "이인좌의 난", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "ROYAL_TRAGEDY", "name_ko": "왕실 사건" },
+    "location": { "name": "Jongno-gu, Seoul, South Korea", "venue": "Changgyeonggung area (approx)", "coordinates": [126.9947, 37.5794] },
+    "event": { "year": "1762", "name": "사도세자 사사" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "사도세자 사사", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MONARCHY_SUCCESSION", "name_ko": "왕위 계승/즉위" },
+    "location": { "name": "Seoul, South Korea", "venue": "Royal palace district (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1776", "name": "정조 즉위(조선 제22대)" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "정조 즉위(조선 제22대)", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "INSTITUTION", "name_ko": "제도/기관" },
+    "location": { "name": "Seoul, South Korea", "venue": "Gyujanggak context (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1776", "name": "규장각 설치" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "규장각 설치", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "RELIGION_PERSECUTION", "name_ko": "종교 탄압/박해" },
+    "location": { "name": "Seoul, South Korea", "venue": "Catholic persecution context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1791", "name": "신해박해" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "신해박해", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "SOCIAL_REFORM", "name_ko": "사회제도 개혁" },
+    "location": { "name": "Seoul, South Korea", "venue": "State reform context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1801", "name": "공노비 해방" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "공노비 해방", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "REBELLION", "name_ko": "반란/내란" },
+    "location": { "name": "Jeongju, North Pyongan Province (present-day North Korea)", "venue": "Uprising core area (approx)", "coordinates": [125.73, 39.69] },
+    "event": { "year": "1811", "name": "홍경래의 난" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "홍경래의 난", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "NEW_RELIGION", "name_ko": "신종교/사상" },
+    "location": { "name": "Gyeongju, Gyeongsangbuk-do, South Korea", "venue": "Donghak emergence context (approx)", "coordinates": [129.2247, 35.8562] },
+    "event": { "year": "1860", "name": "동학 탄생" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "동학 탄생", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "RELIGION_PERSECUTION", "name_ko": "종교 탄압/박해" },
+    "location": { "name": "Seoul, South Korea", "venue": "Catholic persecution context", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1866", "name": "병인박해 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "병인박해 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_INTERVENTION", "name_ko": "외세 충돌/사건" },
+    "location": { "name": "Pyongyang, present-day North Korea", "venue": "Taedong River area (approx)", "coordinates": [125.754, 39.035] },
+    "event": { "year": "1866", "name": "제너럴 셔먼호 사건" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "제너럴 셔먼호 사건", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "FOREIGN_INTERVENTION", "name_ko": "외세 침공/충돌" },
+    "location": { "name": "Ganghwa-gun, Incheon, South Korea", "venue": "Ganghwa Island (approx)", "coordinates": [126.487, 37.746] },
+    "event": { "year": "1871", "name": "신미양요 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "신미양요 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "TREATY", "name_ko": "조약/개항" },
+    "location": { "name": "Ganghwa-gun, Incheon, South Korea", "venue": "Treaty signing context (Ganghwa, approx)", "coordinates": [126.487, 37.746] },
+    "event": { "year": "1876", "name": "강화도 조약(조일수호조규) 체결" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "강화도 조약(조일수호조규) 체결", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "MUTINY", "name_ko": "군란/봉기" },
+    "location": { "name": "Seoul, South Korea", "venue": "Capital uprising context (approx)", "coordinates": [126.978, 37.5665] },
+    "event": { "year": "1882", "name": "임오군란 발발" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "임오군란 발발", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "PEASANT_WAR", "name_ko": "농민전쟁/민란" },
+    "location": { "name": "Jeonju, Jeollabuk-do, South Korea", "venue": "Jeonju (approx)", "coordinates": [127.148, 35.815] },
+    "event": { "year": "1894", "name": "동학 농민 운동" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "동학 농민 운동", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "ASSASSINATION_PALACE", "name_ko": "궁중 사건/암살" },
+    "location": { "name": "Jongno-gu, Seoul, South Korea", "venue": "Gyeongbokgung (approx)", "coordinates": [126.9769, 37.5796] },
+    "event": { "year": "1895", "name": "을미사변" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "을미사변", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  },
+  {
+    "category": { "code": "POLITICAL_FLIGHT", "name_ko": "정치적 피신/망명" },
+    "location": { "name": "Jung-gu, Seoul, South Korea", "venue": "Russian Legation (Jeongdong) area (approx)", "coordinates": [126.9723, 37.5658] },
+    "event": { "year": "1896", "name": "아관파천" },
+    "wiki_list": [{ "publisher": "위키백과(한국어)", "title": "아관파천", "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0_%EC%8B%9C%EB%8C%80_%EC%97%B0%ED%91%9C", "citation": "[page:1]" }]
+  }
+]

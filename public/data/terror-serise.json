@@ -1,0 +1,296 @@
+[
+    {
+      "incident": {
+        "name": "Istanbul Sultanahmet suicide bombing (tourist area near Hagia Sophia/Blue Mosque)",
+        "date": "2016-01",
+        "type": "Suicide bombing"
+      },
+      "location": {
+        "name": "Istanbul, Turkey",
+        "venue": "Sultanahmet Square (near Hagia Sophia/Blue Mosque)",
+        "coordinates": [28.9799, 41.0086]
+      },
+      "news_list": [
+        {
+          "publisher": "Deutsche Welle (DW)",
+          "title": "A chronology of terror in Europe (includes Istanbul Jan 2016 incident)",
+          "url": "https://www.dw.com/en/madrid-to-manchester-to-barcelona-a-chronology-of-terror-in-europe/a-38949481",
+          "date": "2017-08",
+          "citation": "[web:125]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Brussels Airport bombing",
+        "date": "2016-03",
+        "type": "Bombing"
+      },
+      "location": {
+        "name": "Brussels, Belgium",
+        "venue": "Brussels Airport (Zaventem)",
+        "coordinates": [4.4844, 50.9010]
+      },
+      "news_list": [
+        {
+          "publisher": "Deutsche Welle (DW)",
+          "title": "A chronology of terror in Europe (includes Brussels airport bombing)",
+          "url": "https://www.dw.com/en/madrid-to-manchester-to-barcelona-a-chronology-of-terror-in-europe/a-38949481",
+          "date": "2017-08",
+          "citation": "[web:125]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Brussels Metro bombing",
+        "date": "2016-03",
+        "type": "Bombing"
+      },
+      "location": {
+        "name": "Brussels, Belgium",
+        "venue": "Maelbeek (Maalbeek) metro station",
+        "coordinates": [4.3699, 50.8430]
+      },
+      "news_list": [
+        {
+          "publisher": "Deutsche Welle (DW)",
+          "title": "A chronology of terror in Europe (includes Brussels metro bombing)",
+          "url": "https://www.dw.com/en/madrid-to-manchester-to-barcelona-a-chronology-of-terror-in-europe/a-38949481",
+          "date": "2017-08",
+          "citation": "[web:125]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Nice truck attack (Bastille Day)",
+        "date": "2016-07-14",
+        "type": "Vehicle-ramming attack"
+      },
+      "location": {
+        "name": "Nice, France",
+        "venue": "Promenade des Anglais",
+        "coordinates": [7.2656, 43.6955]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (Nice truck attack entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        },
+        {
+          "publisher": "Deutsche Welle (DW)",
+          "title": "A chronology of terror in Europe (Nice truck attack entry)",
+          "url": "https://www.dw.com/en/madrid-to-manchester-to-barcelona-a-chronology-of-terror-in-europe/a-38949481",
+          "date": "2017-08",
+          "citation": "[web:125]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Munich mass shooting (non-Islamist motive noted in timeline)",
+        "date": "2016-07",
+        "type": "Mass shooting"
+      },
+      "location": {
+        "name": "Munich, Germany",
+        "venue": "Olympia shopping center area (commonly reported venue)",
+        "coordinates": [11.5646, 48.1850]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (Munich entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Ansbach music festival bombing",
+        "date": "2016-07",
+        "type": "Bombing"
+      },
+      "location": {
+        "name": "Ansbach, Germany",
+        "venue": "Music festival area (city center)",
+        "coordinates": [10.5833, 49.3000]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (Ansbach entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Westminster Bridge attack",
+        "date": "2017-03",
+        "type": "Vehicle-ramming + stabbing (as described in timeline)"
+      },
+      "location": {
+        "name": "London, United Kingdom",
+        "venue": "Westminster Bridge / near Houses of Parliament",
+        "coordinates": [-0.1226, 51.5009]
+      },
+      "news_list": [
+        {
+          "publisher": "BBC",
+          "title": "London Bridge attack: Timeline of British terror attacks (includes Westminster Bridge attack)",
+          "url": "https://www.bbc.co.uk/news/uk-40013040",
+          "date": "2017-06-18",
+          "citation": "[web:123]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Manchester Arena bombing",
+        "date": "2017-05",
+        "type": "Suicide bombing"
+      },
+      "location": {
+        "name": "Manchester, United Kingdom",
+        "venue": "Manchester Arena",
+        "coordinates": [-2.2426, 53.4884]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (Manchester concert venue entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        },
+        {
+          "publisher": "BBC",
+          "title": "London Bridge attack: Timeline of British terror attacks (includes Manchester Arena bombing)",
+          "url": "https://www.bbc.co.uk/news/uk-40013040",
+          "date": "2017-06-18",
+          "citation": "[web:123]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "London Bridge / Borough Market attack",
+        "date": "2017-06",
+        "type": "Vehicle-ramming + stabbing"
+      },
+      "location": {
+        "name": "London, United Kingdom",
+        "venue": "London Bridge / Borough Market area",
+        "coordinates": [-0.0877, 51.5079]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (London Bridge entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        },
+        {
+          "publisher": "BBC",
+          "title": "London Bridge attack: Timeline of British terror attacks (London Bridge / Borough Market)",
+          "url": "https://www.bbc.co.uk/news/uk-40013040",
+          "date": "2017-06-18",
+          "citation": "[web:123]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Barcelona Las Ramblas van attack",
+        "date": "2017-08-17",
+        "type": "Vehicle-ramming attack"
+      },
+      "location": {
+        "name": "Barcelona, Spain",
+        "venue": "La Rambla (Las Ramblas)",
+        "coordinates": [2.1734, 41.3809]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Timeline: Deadly attacks in Western Europe (Barcelona entry)",
+          "url": "https://www.reuters.com/article/world/timeline-deadly-attacks-in-western-europe-idUSKCN1AX2EV/",
+          "date": "2017-08-17",
+          "citation": "[web:122]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Kabul airport suicide bombing (Abbey Gate)",
+        "date": "2021-08-26",
+        "type": "Suicide bombing"
+      },
+      "location": {
+        "name": "Kabul, Afghanistan",
+        "venue": "Hamid Karzai International Airport (Abbey Gate)",
+        "coordinates": [69.2123, 34.5659]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Pentagon says Kabul attack carried out by one suicide bomber",
+          "url": "https://www.reuters.com/world/pentagon-says-kabul-attack-carried-out-by-one-suicide-bomber-2021-08-27/",
+          "date": "2021-08-27",
+          "citation": "[web:102]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Kerman memorial attack (two explosions / suicide bombings reported)",
+        "date": "2024-01-03",
+        "type": "Bombing / suicide bombing (as reported)"
+      },
+      "location": {
+        "name": "Kerman, Iran",
+        "venue": "Cemetery / memorial event site (reported as Kerman memorial)",
+        "coordinates": [57.0788, 30.2839]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Islamic State claims responsibility for deadly Iran attack (Kerman)",
+          "url": "https://www.reuters.com/world/middle-east/iran-vows-revenge-after-biggest-attack-since-1979-revolution-2024-01-04/",
+          "date": "2024-01-04",
+          "citation": "[web:107]"
+        }
+      ]
+    },
+    {
+      "incident": {
+        "name": "Crocus City Hall concert venue attack",
+        "date": "2024-03-22",
+        "type": "Mass shooting + fire (as reported)"
+      },
+      "location": {
+        "name": "Krasnogorsk (near Moscow), Russia",
+        "venue": "Crocus City Hall",
+        "coordinates": [37.3884, 55.8240]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Moscow concert hall attack: what we know about shooting at venue near Moscow",
+          "url": "https://www.reuters.com/world/europe/what-we-know-about-shooting-concert-venue-near-moscow-2024-03-22/",
+          "date": "2024-03-22",
+          "citation": "[web:93]"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,171 @@
+[
+    {
+      "category": { "code": "KOREAN_WAR_OUTBREAK", "name_ko": "전쟁 발발/개전", "name_en": "Outbreak" },
+      "location": {
+        "name": "Jung-gu, Seoul, South Korea",
+        "venue": "Central Broadcasting Station area (approx; used for emergency announcement context)",
+        "coordinates": [126.9895, 37.5636]
+      },
+      "event": {
+        "name": "6·25 전쟁 발발 직후 남침 사실 발표(라디오)",
+        "date": "1950-06-25"
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "한국전쟁 발발 직후 100일…전쟁소식은 어떻게 전파됐나",
+          "url": "https://www.yna.co.kr/view/AKR20160624204700033",
+          "date": "2016-06-24",
+          "citation": "[web:82]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_BATTLE", "name_ko": "전투", "name_en": "Battle" },
+      "location": {
+        "name": "Yongsan-gu, Seoul, South Korea",
+        "venue": "Hangang Bridge (approx; Seoul fall / bridge demolition narrative context)",
+        "coordinates": [126.9572, 37.5225]
+      },
+      "event": {
+        "name": "서울 함락(개전 3일) 및 한강교 폭파 관련 서술",
+        "date": "1950-06-28"
+      },
+      "news_list": [
+        {
+          "publisher": "KBS (아카이브/블로그)",
+          "title": "6.25 개전 3일, 서울이 함락되다",
+          "url": "https://mylovekbs.kbs.co.kr/index.html?sname=mylovekbs&stype=blog&contents_id=70000000355578&section_id=7200",
+          "date": "2020-05-17",
+          "citation": "[web:83]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_OPERATION", "name_ko": "군사작전(상륙)", "name_en": "Operation (Amphibious landing)" },
+      "location": {
+        "name": "Jung-gu, Incheon, South Korea",
+        "venue": "Wolmido area (Incheon Landing main stage context)",
+        "coordinates": [126.5969, 37.4747]
+      },
+      "event": {
+        "name": "인천상륙작전",
+        "date": "1950-09-15"
+      },
+      "news_list": [
+        {
+          "publisher": "KBS",
+          "title": "[통일로 미래로] 인천상륙작전, 역전의 그날",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=7775330",
+          "date": "2023-09-15",
+          "citation": "[web:71]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_BATTLE", "name_ko": "전투", "name_en": "Battle" },
+      "location": {
+        "name": "Chilgok-gun (Dabudong), Gyeongsangbuk-do, South Korea",
+        "venue": "Yuhaksan / Dabudong battlefield area (approx)",
+        "coordinates": [128.3920, 35.9800]
+      },
+      "event": {
+        "name": "낙동강 방어선 다부동 전투(격전지·전적지 서술)",
+        "date_range": ["1950-08-01", "1950-09-30"]
+      },
+      "news_list": [
+        {
+          "publisher": "KBS",
+          "title": "오늘의 대한민국을 있게 한 다부동 전투",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=7995445",
+          "date": "2024-06-24",
+          "citation": "[web:89]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_DIPLOMACY", "name_ko": "정전/협정", "name_en": "Armistice/Diplomacy" },
+      "location": {
+        "name": "Panmunjom (JSA), Paju, Gyeonggi-do, South Korea (DMZ area)",
+        "venue": "Joint Security Area (approx)",
+        "coordinates": [126.6796, 37.9563]
+      },
+      "event": {
+        "name": "정전협정 서명(판문점)",
+        "date": "1953-07-27"
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "<정전60주년> ③지루했던 협상…'지켜지지 않는' 협정",
+          "url": "https://www.yna.co.kr/view/AKR20130618222900043",
+          "date": "2013-06-22",
+          "citation": "[web:67]"
+        },
+        {
+          "publisher": "연합뉴스TV",
+          "title": "'평화의 상징'에서 지금은 적막감만…정전 70주년 맞은 판문점",
+          "url": "https://www.yna.co.kr/view/MYH20230304001400641",
+          "date": "2023-03-04",
+          "citation": "[web:66]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_MEMORIAL", "name_ko": "추모/묘지", "name_en": "Memorial/Cemetery" },
+      "location": {
+        "name": "Nam-gu, Busan, South Korea",
+        "venue": "UN Memorial Cemetery in Korea (유엔기념공원)",
+        "coordinates": [129.0856, 35.1276]
+      },
+      "event": {
+        "name": "재한유엔기념공원(유엔군 묘지) 관련 기획/추모행사",
+        "date_range": ["1951-01-01", "2024-12-31"]
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "[정전 70년, 피란수도 부산] (19) 세계 유일의 유엔군 묘소",
+          "url": "https://www.yna.co.kr/view/AKR20230728056900051",
+          "date": "2023-08-04",
+          "citation": "[web:87]"
+        },
+        {
+          "publisher": "연합뉴스",
+          "title": "\"참전용사 잊지 말자\"…부산 유엔기념공원 향해 1분간 묵념 ...",
+          "url": "https://www.yna.co.kr/view/AKR20241111071900051",
+          "date": "2024-11-10",
+          "citation": "[web:93]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "KOREAN_WAR_REFUGEE", "name_ko": "피란/철수", "name_en": "Refugee/Evacuation" },
+      "location": {
+        "name": "Jangseungpo, Geoje-si, Gyeongsangnam-do, South Korea",
+        "venue": "Jangseungpo Port (흥남철수 피난민 도착지 서술 맥락)",
+        "coordinates": [128.7310, 34.8670]
+      },
+      "event": {
+        "name": "흥남철수작전 관련 피난민·기념사업/개발 논의(거제 장승포항)",
+        "date_range": ["1950-12-01", "2024-12-31"]
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "거제포로수용소에 모인 흥남철수작전 피난민들",
+          "url": "https://www.yna.co.kr/view/AKR20110527160200052",
+          "date": "2011-05-26",
+          "citation": "[web:75]"
+        },
+        {
+          "publisher": "연합뉴스",
+          "title": "\"인류애 보여준 흥남철수작전 테마로 거제 장승포항 개발해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20240604110100052",
+          "date": "2024-06-03",
+          "citation": "[web:78]"
+        }
+      ]
+    }
+  ]
+  

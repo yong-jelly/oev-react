@@ -1,0 +1,60 @@
+---
+description: SQL 파일 생성 시 표준 주석 헤더 패턴 및 보안 설정 적용
+globs: docs/sql/*.sql
+alwaysApply: false
+---
+
+# SQL 파일 표준 패턴
+
+SQL 파일을 생성하거나 수정할 때 다음 주석 헤더와 보안 설정을 항상 포함해야 합니다.
+
+## 1. 헤더 주석 패턴
+
+파일 최상단에 다음과 같은 형식의 주석 블록을 작성합니다:
+
+```sql
+-- =====================================================
+-- [파일명].sql
+-- [기능 설명]
+-- 
+-- 인자:
+--   @p_[인자명]: [인자 설명]
+-- 
+-- 실행 방법:
+--   psql "postgresql://postgres.xyqpggpilgcdsawuvpzn:ZNDqDunnaydr0aFQ@aws-0-ap-northeast-2.pooler.supabase.com:5432/postgres" -f docs/sql/[파일명].sql
+-- =====================================================
+```
+
+## 2. 함수 정의 가이드라인
+
+함수 정의 시 다음 사항을 준수합니다:
+
+- `CREATE OR REPLACE FUNCTION` 사용
+- `LANGUAGE plpgsql` 명시
+- `SECURITY DEFINER` 설정 (필요한 경우)
+- `SET search_path = [스키마], public` 설정으로 보안 강화
+- 함수 끝에 `COMMENT ON FUNCTION` 및 `GRANT EXECUTE` 추가
+
+### 예시:
+
+```sql
+CREATE OR REPLACE FUNCTION schema_name.v1_function_name(
+    p_param_1 text,
+    p_param_2 int DEFAULT NULL
+)
+RETURNS schema_name.tbl_target
+LANGUAGE plpgsql
+SECURITY DEFINER
+SET search_path = schema_name, public
+AS $$
+DECLARE
+    v_result schema_name.tbl_target;
+BEGIN
+    -- 로직 작성
+    RETURN v_result;
+END;
+$$;
+
+COMMENT ON FUNCTION schema_name.v1_function_name IS '함수에 대한 설명';
+GRANT EXECUTE ON FUNCTION schema_name.v1_function_name TO authenticated;
+```

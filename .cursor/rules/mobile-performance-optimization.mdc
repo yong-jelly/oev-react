@@ -1,0 +1,152 @@
+---
+description: 모바일 브라우저 성능 최적화 가이드 - 스크롤 버벅임, 렌더링 지연 방지
+globs:
+  - "src/**/*.tsx"
+  - "src/**/*.ts"
+alwaysApply: false
+---
+
+# 모바일 성능 최적화 가이드
+
+모바일 브라우저에서 스크롤 버벅임, 프레임 드랍, 렌더링 지연을 방지하기 위한 핵심 규칙입니다.
+
+## 🚫 절대 피해야 할 것들
+
+### 1. `backdrop-blur` 사용 금지
+
+```tsx
+// ❌ BAD - 모바일에서 매우 느림 (GPU 집약적, 스크롤마다 재계산)
+<div className="bg-white/80 backdrop-blur-md">
+<div className="backdrop-blur-sm">
+<div className="backdrop-blur-xl">
+
+// ✅ GOOD - 단색 배경 또는 그라디언트로 대체
+<div className="bg-white">
+<div className="bg-black/70">
+<div className="bg-gradient-to-t from-black/70 to-transparent">
+```
+
+**이유**: `backdrop-blur`는 스크롤할 때마다 GPU에서 blur 연산을 다시 수행해야 하므로 프레임 드랍의 주요 원인입니다.
+
+### 2. 불필요한 `transition` 제거
+
+```tsx
+// ❌ BAD - 수십/수백 개 요소에 적용 시 합성 레이어 비용 증가
+<img className="transition-transform duration-500 group-hover:scale-110" />
+<div className="transition-all">
+
+// ✅ GOOD - transition 제거 또는 필수적인 곳에만 사용
+<img className="w-full h-full object-cover" />
+
+// ✅ OK - 단일 요소의 중요한 인터랙션에만 사용
+<button className="transition-colors hover:bg-primary-600">
+```
+
+### 3. 숨김 처리된 컴포넌트 마운트 금지
+
+```tsx
+// ❌ BAD - 모든 탭이 DOM에 존재 (hidden으로만 숨김)
+<div className={cn("absolute inset-0", activeTab !== "a" && "hidden")}>
+  <HeavyComponentA />
+</div>
+<div className={cn("absolute inset-0", activeTab !== "b" && "hidden")}>
+  <HeavyComponentB />
+</div>
+
+// ✅ GOOD - 조건부 렌더링으로 활성 탭만 마운트
+{activeTab === "a" && <HeavyComponentA />}
+{activeTab === "b" && <HeavyComponentB />}
+```
+
+**이유**: `display: none`이어도 컴포넌트는 마운트되어 있고, 데이터 페칭/상태 관리가 계속 동작합니다.
+
+## ✅ 반드시 적용해야 할 것들
+
+### 1. 이미지 최적화 속성
+
+```tsx
+// ✅ GOOD - lazy loading + async decoding
+<img 
+  src={imageUrl}
+  loading="lazy"
+  decoding="async"
+  className="w-full h-full object-cover"
+/>
+```
+
+### 2. 스크롤 컨테이너 GPU 가속
+
+```tsx
+// ✅ GOOD - 가로/세로 스크롤 컨테이너에 GPU 가속 적용
+<div 
+  className="overflow-x-auto"
+  style={{ 
+    willChange: 'scroll-position',
+    WebkitOverflowScrolling: 'touch',
+    transform: 'translateZ(0)',
+  }}
+>
+  {/* 스크롤 콘텐츠 */}
+</div>
+```
+
+### 3. 무한 스크롤 시 가상화 고려
+
+데이터가 100개 이상 누적될 수 있는 무한 스크롤에서는 `@tanstack/react-virtual` 도입을 고려하세요.
+
+```tsx
+// 가상화 적용 예시
+import { useVirtualizer } from '@tanstack/react-virtual';
+
+function VirtualList({ items }) {
+  const parentRef = useRef<HTMLDivElement>(null);
+  
+  const virtualizer = useVirtualizer({
+    count: items.length,
+    getScrollElement: () => parentRef.current,
+    estimateSize: () => 200,
+  });
+
+  return (
+    <div ref={parentRef} className="h-screen overflow-auto">
+      <div style={{ height: virtualizer.getTotalSize() }}>
+        {virtualizer.getVirtualItems().map(virtualRow => (
+          <div
+            key={virtualRow.key}
+            style={{
+              position: 'absolute',
+              top: virtualRow.start,
+              height: virtualRow.size,
+            }}
+          >
+            {items[virtualRow.index]}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+```
+
+## 📋 성능 체크리스트
+
+새 컴포넌트 작성 또는 리뷰 시 확인:
+
+- [ ] `backdrop-blur` 사용하지 않음
+- [ ] 리스트 아이템에 불필요한 `transition` 없음
+- [ ] 비활성 탭/섹션은 조건부 렌더링으로 언마운트
+- [ ] 이미지에 `loading="lazy"` 및 `decoding="async"` 적용
+- [ ] 스크롤 컨테이너에 `-webkit-overflow-scrolling: touch` 적용
+- [ ] 무한 스크롤 시 DOM 노드 누적 관리 (가상화 또는 페이지네이션)
+
+## 🔧 디버깅 팁
+
+1. **Chrome DevTools > Performance 탭**: 프레임 드랍 구간 확인
+2. **Chrome DevTools > Rendering > Paint flashing**: 불필요한 repaint 영역 확인
+3. **Safari > Develop > Show Web Inspector > Layers**: 합성 레이어 수 확인 (너무 많으면 문제)
+
+## 참고
+
+- 모바일 Safari는 특히 `backdrop-blur`에 민감함
+- iOS에서 `-webkit-overflow-scrolling: touch`는 네이티브 스크롤 사용
+- `will-change`는 남용하지 말 것 (실제 변경되는 요소에만 사용)

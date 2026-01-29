@@ -1,0 +1,251 @@
+[
+    {
+      "category": { "code": "WILDFIRE", "name_ko": "산불/대형화재", "gdacs_like_hazard": "WF" },
+      "location": {
+        "name": "Pacific Palisades, Los Angeles, California, United States",
+        "venue": "Pacific Palisades area (approx)",
+        "coordinates": [-118.5260, 34.0480]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate bounding box for map visualization; not an official fire perimeter."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-118.6500, 33.9800],
+              [-118.4000, 33.9800],
+              [-118.4000, 34.1000],
+              [-118.6500, 34.1000],
+              [-118.6500, 33.9800]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "Los Angeles wildfires (Palisades Fire 등)",
+        "date": "2025-01-07"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Wildfires rage in Los Angeles, forcing tens of thousands to evacuate",
+          "url": "https://www.reuters.com/business/environment/los-angeles-wildfire-prompts-evacuations-amid-extreme-winds-2025-01-07/",
+          "date": "2025-01-08",
+          "citation": "[web:96]"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "US agency declares California wildfires a public health emergency",
+          "url": "https://www.reuters.com/world/us/us-agency-declares-california-wildfires-public-health-emergency-2025-01-10/",
+          "date": "2025-01-10",
+          "citation": "[web:129]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "WILDFIRE", "name_ko": "산불/대형화재", "gdacs_like_hazard": "WF" },
+      "location": {
+        "name": "Castaic, Los Angeles County, California, United States",
+        "venue": "Castaic area (approx)",
+        "coordinates": [-118.6220, 34.4890]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate bounding box for map visualization; not an official fire perimeter."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-118.7500, 34.3800],
+              [-118.5000, 34.3800],
+              [-118.5000, 34.6100],
+              [-118.7500, 34.6100],
+              [-118.7500, 34.3800]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "Wildfire near Los Angeles (Castaic 인근 확산 및 대피)",
+        "date": "2025-01-23"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "New wildfire breaks out north of Los Angeles, forces evacuations",
+          "url": "https://www.reuters.com/business/environment/new-wildfire-breaks-out-north-los-angeles-forces-evacuations-2025-01-22/",
+          "date": "2025-01-22",
+          "citation": "[web:97]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "WILDFIRE", "name_ko": "산불/대형화재", "gdacs_like_hazard": "WF" },
+      "location": {
+        "name": "Mono County (near Mammoth Lakes), California, United States",
+        "venue": "Near Mammoth Lakes ski area (approx)",
+        "coordinates": [-118.9650, 37.6480]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate bounding box for map visualization; not an official fire perimeter."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-119.1500, 37.5000],
+              [-118.8000, 37.5000],
+              [-118.8000, 37.7800],
+              [-119.1500, 37.7800],
+              [-119.1500, 37.5000]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "California wildfire in Mono County (Mammoth Lakes 인근)",
+        "date": "2025-11-14"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "As California wildfire rages, Los Angeles threatened with floods, mudslides",
+          "url": "https://www.reuters.com/business/environment/california-wildfire-rages-los-angeles-threatened-with-floods-mudslides-2025-11-14/",
+          "date": "2025-11-14",
+          "citation": "[web:127]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "FLOOD_MUDSLIDE", "name_ko": "홍수/산사태(토사)", "gdacs_like_hazard": "FL" },
+      "location": {
+        "name": "Wrightwood, San Bernardino County, California, United States",
+        "venue": "Wrightwood / Angeles Crest Hwy area (approx)",
+        "coordinates": [-117.6250, 34.3610]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate bounding box for map visualization; not an official flood extent."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-117.8500, 34.2000],
+              [-117.4500, 34.2000],
+              [-117.4500, 34.5500],
+              [-117.8500, 34.5500],
+              [-117.8500, 34.2000]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "Southern California flash flooding / mud flows (대기강 폭우)",
+        "date": "2025-12-24"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Heavy rains drench Southern California, spawn flash flooding",
+          "url": "https://www.reuters.com/business/environment/atmospheric-river-drenches-los-angeles-triggers-widespread-flooding-2025-12-24/",
+          "date": "2025-12-24",
+          "citation": "[web:128]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "FLOOD", "name_ko": "홍수", "gdacs_like_hazard": "FL" },
+      "location": {
+        "name": "Snohomish County, Washington, United States",
+        "venue": "Snohomish River flooded area (approx)",
+        "coordinates": [-122.0920, 47.9120]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate bounding box for map visualization; not an official flood extent."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-122.4500, 47.7000],
+              [-121.8000, 47.7000],
+              [-121.8000, 48.2000],
+              [-122.4500, 48.2000],
+              [-122.4500, 47.7000]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "Pacific Northwest flooding (대기강 폭우로 홍수 및 대피)",
+        "date": "2025-12-12"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Heavy rains trigger floods, mass evacuations in Pacific Northwest",
+          "url": "https://www.reuters.com/pictures/heavy-rains-trigger-floods-mass-evacuations-pacific-northwest-2025-12-12/",
+          "date": "2025-12-12",
+          "citation": "[web:130]"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Torrential rains unleash widespread flooding, evacuations in the Pacific Northwest",
+          "url": "https://www.reuters.com/sustainability/climate-energy/floods-falling-rocks-force-closure-major-highways-vancouver-2025-12-11/",
+          "date": "2025-12-11",
+          "citation": "[web:135]"
+        }
+      ]
+    },
+    {
+      "category": { "code": "WINTER_STORM", "name_ko": "겨울폭풍(눈/빙우/한파)", "gdacs_like_hazard": "WS" },
+      "location": {
+        "name": "Eastern United States (multi-state)",
+        "venue": "Broad impact area (approx)",
+        "coordinates": [-90.0000, 37.0000]
+      },
+      "geojson": {
+        "type": "Feature",
+        "properties": {
+          "geojson_note": "Approximate broad footprint for visualization based on reported widespread warnings; not an official forecast polygon."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-105.0000, 25.0000],
+              [-66.0000, 25.0000],
+              [-66.0000, 47.0000],
+              [-105.0000, 47.0000],
+              [-105.0000, 25.0000]
+            ]
+          ]
+        }
+      },
+      "event": {
+        "name": "Major winter storm across a large swath of the U.S.",
+        "date": "2026-01-24"
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "Winter storm grips much of US in snow, ice, Arctic cold",
+          "url": "https://www.reuters.com/business/environment/thousands-flights-canceled-ahead-us-winter-storm-2026-01-24/",
+          "date": "2026-01-24",
+          "citation": "[web:131]"
+        }
+      ]
+    }
+  ]
+  

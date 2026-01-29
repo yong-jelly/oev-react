@@ -1,0 +1,109 @@
+[
+    {
+      "location": {
+        "name": "Inglewood (Los Angeles), United States",
+        "venue": "SoFi Stadium",
+        "coordinates": [-118.3392, 33.9535]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "BTS to hold first live concert since COVID-19 pandemic in Los Angeles this November",
+          "url": "https://www.reuters.com/lifestyle/bts-hold-first-live-concert-since-covid-19-pandemic-la-nov-2021-09-28/",
+          "date": "2021-09-28",
+          "citation": "[web:6]"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "BTS 'emotional beyond words' to play in front of fans again",
+          "url": "https://www.reuters.com/lifestyle/bts-emotional-beyond-words-play-front-fans-again-2021-11-29/",
+          "date": "2021-11-29",
+          "citation": "[web:7]"
+        },
+        {
+          "publisher": "CNN",
+          "title": "BTS is touring again after two years and very happy about it",
+          "url": "https://www.cnn.com/2021/11/29/entertainment/bts-permission-to-dance-tour-los-angeles",
+          "date": "2021-11-29",
+          "citation": "[web:18]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Seoul, South Korea",
+        "venue": "Seoul Olympic Stadium (Jamsil Olympic Stadium)",
+        "coordinates": [127.0720, 37.5150]
+      },
+      "news_list": [
+        {
+          "publisher": "Yonhap News Agency",
+          "title": "(LEAD) BTS' Seoul concerts attract 2.46 million fans around the world",
+          "url": "https://en.yna.co.kr/view/AEN20220314000951315",
+          "date": "2022-03-13",
+          "citation": "[web:19]"
+        },
+        {
+          "publisher": "The Korea Times",
+          "title": "BTS to hold first live concerts in Seoul in over 2 years next month",
+          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20220216/bts-to-hold-first-live-concerts-in-seoul-in-over-2-years-next-month",
+          "date": "2022-02-15",
+          "citation": "[web:16]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Las Vegas, United States",
+        "venue": "Allegiant Stadium",
+        "coordinates": [-115.1830, 36.0908]
+      },
+      "news_list": [
+        {
+          "publisher": "Reuters",
+          "title": "K-pop sensation BTS to return to U.S. for in-person concerts",
+          "url": "https://www.reuters.com/lifestyle/k-pop-sensation-bts-return-us-in-person-concerts-2022-02-23/",
+          "date": "2022-02-23",
+          "citation": "[web:20]"
+        },
+        {
+          "publisher": "Yonhap News Agency",
+          "title": "BTS fans paint night of Las Vegas purple",
+          "url": "https://en.yna.co.kr/view/AEN20220410003400315",
+          "date": "2022-04-09",
+          "citation": "[web:34]"
+        },
+        {
+          "publisher": "Korea JoongAng Daily",
+          "title": "BTS and ARMY reunite for a 'miracle in the desert'",
+          "url": "https://koreajoongangdaily.joins.com/2022/04/11/entertainment/kpop/bts-bts-concert-bts-las-vegas/20220411114649893.html",
+          "date": "2022-04-11",
+          "citation": "[web:25]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Busan, South Korea",
+        "venue": "Busan Asiad Main Stadium",
+        "coordinates": [129.0630, 35.1915]
+      },
+      "news_list": [
+        {
+          "publisher": "Korea JoongAng Daily",
+          "title": "The highs and lows of BTS's 2022",
+          "url": "https://koreajoongangdaily.joins.com/2023/01/01/culture/features/korea-bts-top-10-news-of-2022-bts-news/20230101173018417.html",
+          "date": "2022-12-31",
+          "citation": "[web:14]"
+        },
+        {
+          "publisher": "The National",
+          "title": "BTS to reunite for free concert in support of South Korea's World Expo bid",
+          "url": "https://www.thenationalnews.com/arts-culture/music/2022/10/15/bts-to-reunite-for-free-concert-to-support-south-koreas-world-expo-bid/",
+          "date": "2022-10-14",
+          "citation": "[web:17]"
+        }
+      ]
+    }
+  ]
+  

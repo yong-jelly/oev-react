@@ -1,0 +1,41 @@
+---
+description: 프로젝트 전반의 UI 스타일 및 언어 표준 가이드
+globs: src/**/*.{tsx,ts}
+---
+
+# UI 스타일 및 언어 표준 (UI Style & Language Standard)
+
+이 프로젝트는 한국 사용자 경험을 최우선으로 하며, 일관된 시각적 무게감과 언어 사용을 지향합니다.
+
+## 1. 텍스트 스타일 표준
+
+### 1.1 폰트 두께 (Font Weight)
+- **Bold 지양**: `font-bold` (700) 사용을 지양합니다.
+- **Medium 선호**: 강조가 필요한 모든 텍스트에는 `font-medium` (500)을 사용합니다.
+- 이유: 모바일 환경 및 한국어 폰트(IBM Plex Sans KR 등)에서 `bold`는 시각적으로 너무 무겁게 느껴질 수 있어, 세련된 `medium`을 표준 강조 스타일로 사용합니다.
+
+### 1.2 언어 사용 (Language)
+- **한글 우선**: UI 텍스트, 레이블, 설명 등 사용자에게 노출되는 모든 텍스트는 영문보다 **한글** 사용을 원칙으로 합니다.
+- 예시:
+  - `Reputation` → `평판`
+  - `Earnings` → `수익`
+  - `Runs` → `운행` 또는 `완료`
+  - `Available Balance` → `보유 잔액`
+
+## 2. 코드 적용 가이드 (Tailwind CSS)
+
+### 2.1 클래스 교체 예시
+- ❌ `font-bold`, `font-semibold`
+- ✅ `font-medium`
+
+### 2.2 컴포넌트 텍스트 예시
+```tsx
+// ❌ 영문 + Bold
+<span className="font-bold text-lg">Earnings</span>
+
+// ✅ 한글 + Medium
+<span className="font-medium text-lg">수익</span>
+```
+
+## 3. 예외 사항
+- 기술적인 용어(ID, UUID 등)나 브랜드명, 혹은 한글보다 영문이 압도적으로 직관적인 경우(예: BOT)에 한해 제한적으로 영문을 허용합니다.

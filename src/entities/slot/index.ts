@@ -1,0 +1,1 @@
+export { getUserSlots } from './api';

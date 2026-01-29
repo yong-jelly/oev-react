@@ -1,0 +1,81 @@
+[
+    {
+      "location": {
+        "name": "Mapo-gu, Seoul, South Korea",
+        "venue": "Apartment in Changjeon-dong (approx)",
+        "coordinates": [126.9320, 37.5490]
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "마포아파트 화재로 모자 사망…대피한 부친은 아들 찾아다녀 ...",
+          "url": "https://www.yna.co.kr/view/AKR20250817012952004",
+          "date": "2025-08-16",
+          "citation": "[web:37]"
+        },
+        {
+          "publisher": "연합뉴스",
+          "title": "휴일 아침 일상 앗아간 화마…마포 아파트 화재로 모자 숨져( ...",
+          "url": "https://www.yna.co.kr/view/AKR20250817012953004",
+          "date": "2025-08-17",
+          "citation": "[web:38]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Seoul, South Korea",
+        "venue": "Apartment (district not specified in headline/snippet)",
+        "coordinates": [126.9780, 37.5665]
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스",
+          "title": "담배·전기용품 의심…서울서 아파트 화재 잇따라 1명 사망",
+          "url": "https://www.yna.co.kr/view/AKR20260129017000004",
+          "date": "2026-01-28",
+          "citation": "[web:36]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Inje-gun, Gangwon-do, South Korea",
+        "venue": "Near Seoul–Yangyang Expressway (Sangnam 7 Tunnel area, approx)",
+        "coordinates": [128.3500, 38.0300]
+      },
+      "news_list": [
+        {
+          "publisher": "연합뉴스TV",
+          "title": "[🔴속보] 강원 인제 산불, 밤샘 작업에 주불 진화 완료 ...",
+          "url": "https://www.youtube.com/watch?v=DWYXck45wRY",
+          "date": "2025-04-26",
+          "citation": "[web:41]"
+        },
+        {
+          "publisher": "연합뉴스TV",
+          "title": "강원 인제 산불 17시간 만에 완진…'대형 산불 주의보'",
+          "url": "https://www.yna.co.kr/view/MYH20251121017000038",
+          "date": "2025-11-21",
+          "citation": "[web:47]"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "South Korea (exact railroad crossing location not specified in snippet)",
+        "venue": "Railroad crossing (approx)",
+        "coordinates": [127.7669, 35.9078]
+      },
+      "news_list": [
+        {
+          "publisher": "KBS",
+          "title": "'정지신호에도 진입했다 사고'…건널목 안전 감시원 숨져",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8316724",
+          "date": "2025-07-29",
+          "citation": "[web:45]"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,54 @@
+[
+    {
+      "location": {
+        "name": "Yokohama, Japan",
+        "venue": "Yokohama Stadium",
+        "coordinates": [139.6366, 35.4437]
+      },
+      "news_list": [
+        {
+          "publisher": "MichaelJackson.com",
+          "title": "Bad World Tour – Yokohama Stadium (Bad World Tour entry)",
+          "url": "https://www.michaeljackson.com/tour/bad-world-tour-1031987/",
+          "date": "1987-10-03"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "London, United Kingdom",
+        "venue": "Wembley Stadium",
+        "coordinates": [-0.2795, 51.5560]
+      },
+      "news_list": [
+        {
+          "publisher": "MichaelJackson.com",
+          "title": "Michael Jackson’s seven sold-out shows at Wembley Stadium (1988)",
+          "url": "https://www.michaeljackson.com/news/michael-jacksons-seven-sold-out-show-at-wembley-stadium-uk-in-1988/",
+          "date": "1988-07-14"
+        },
+        {
+          "publisher": "BBC News",
+          "title": "Wembley issues warning to ticketless Swift fans (mentions Michael Jackson’s Bad Tour shows at Wembley in 1988)",
+          "url": "https://www.bbc.com/news/articles/cy9elrew2jjo",
+          "date": "2024-08-13"
+        }
+      ]
+    },
+    {
+      "location": {
+        "name": "Bucharest, Romania",
+        "venue": "Stadionul Național (National Stadium)",
+        "coordinates": [26.1526, 44.4371]
+      },
+      "news_list": [
+        {
+          "publisher": "MichaelJackson.com",
+          "title": "Live In Concert in Bucharest: The Dangerous Tour (broadcast on HBO in 1992; concert date noted)",
+          "url": "https://www.michaeljackson.com/music/live-concert-bucharest-dangerous-tour/",
+          "date": "1992-10-01"
+        }
+      ]
+    }
+  ]
+  
